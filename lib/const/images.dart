@@ -7,3 +7,4 @@ const icHome = 'asset/icons/home.png';
 const icHeart = 'asset/icons/heart.png';
 const icChat = 'asset/icons/chat.png';
 const icSetting = 'asset/icons/setting.png';
+const icUser = 'asset/icons/user.png';

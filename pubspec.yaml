@@ -69,6 +69,7 @@ flutter:
     - asset/icons/heart.png 
     - asset/icons/chat.png
     - asset/icons/setting.png
+    - asset/icons/user.png
     
 
   # An image asset can refer to one or more resolution-specific "variants", see
