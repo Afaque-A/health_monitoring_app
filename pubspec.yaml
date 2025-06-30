@@ -65,6 +65,10 @@ flutter:
     - asset/2.png
     - asset/3.png
     - asset/4.png
+    - asset/icons/home.png
+    - asset/icons/heart.png 
+    - asset/icons/chat.png
+    - asset/icons/setting.png
     
 
   # An image asset can refer to one or more resolution-specific "variants", see
